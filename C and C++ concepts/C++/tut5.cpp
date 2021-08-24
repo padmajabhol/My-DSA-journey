@@ -26,7 +26,7 @@
     //************reference variables***********
 
     float x = 455;
-    float & y = x; //y is a reference that points to y
+    float & y = x; //y is a reference that points to x
     cout<<x<<endl;
     cout<<y<<endl; //both 455 
 
