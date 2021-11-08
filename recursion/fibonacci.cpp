@@ -50,6 +50,6 @@ int main(){
     for(i=0;i<10;i++)
         F[i]=-1;
 
-    printf("%d \n", mfib(10));
+    printf("%d \n", mfib(2));
     return 0;
 }

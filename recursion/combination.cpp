@@ -12,7 +12,6 @@ int nCr(int n, int r)
     int num, den;
     num=fact(n);
     den=fact(r)*fact(n-r);
-
     return num/den;
 }
 
