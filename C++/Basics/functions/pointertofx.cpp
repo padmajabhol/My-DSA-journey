@@ -26,7 +26,7 @@ int main(){
     fp = max;
     (*fp)(10,5);
     fp = min;
-    (*fp)(10,5);
+    (*fp)(10,5); 
     
     return 0;
 }
