@@ -20,7 +20,8 @@ void funB(int n)
 }
 
 int main(){
-    funA(20);
+    
+    cout<<"Hi"<<endl;
     
     return 0;
 }

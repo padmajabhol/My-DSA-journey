@@ -1,0 +1,14 @@
+{
+	"c++ code snippet": {
+		"prefix": "c",
+		"body": [
+		  "#include<iostream>",
+		  "using namespace std;",
+		  "",
+		  "int main(){",
+		  "    return 0;",
+		  "};"
+		],
+		"description": "c++ code snippet"
+	  }
+}
