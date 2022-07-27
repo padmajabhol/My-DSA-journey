@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-    char s[100];
+    char s[50];
     cout<<"Enter your name";
-    cin.get(s, 100);
-    cout<<"Welcome "<<s<<endl;
+    cin.get(s,50);
+    cout<<s;
     return 0;
-}
+};
